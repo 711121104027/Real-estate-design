@@ -5,6 +5,6 @@
 
 <h2>About Design</h2>
 <p align="center">
-  <img src="phone and desktop.png" alt="Description of the image" />
+  <img src="phone and desktop.png" alt="Description of the image" width=400px />
 </p>
 <p>cbcbdhcbkhbckjadnkcjndkcn</p>
