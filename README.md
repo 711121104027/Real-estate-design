@@ -8,3 +8,13 @@
   <img src="phone and desktop.png" width=400px />
 </p>
 <p>The design of the real estate website focuses on creating an intuitive and user-friendly experience using HTML, CSS, and JavaScript. It features a clean, modern layout that allows users to easily navigate between buying, selling, and renting houses. The homepage highlights key sections, while property pages offer detailed information with high-quality images, interactive maps, and essential details like pricing and square footage. Advanced search filters help users quickly find homes that meet their preferences. The design utilizes a neutral color palette with soft blues, whites, and gray tones, accented by bright colors for calls to action. Typography is modern and easy to read, and the responsive design ensures accessibility across all devices. JavaScript enhances interactivity by enabling dynamic filtering, smooth transitions, and a seamless browsing experience, helping users make informed decisions when looking for their next home.</p>
+
+<h2>Desktop View</h2>
+<p align="center">
+  <img src="desktop view.png" width=400px />
+</p>
+
+<h2>Mobile View</h2>
+<p align="center">
+  <img src="phone view.png" width=400px />
+</p>
