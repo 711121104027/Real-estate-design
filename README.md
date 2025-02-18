@@ -11,10 +11,10 @@
 
 <h2>Desktop View</h2>
 <p align="center">
-  <img src="desktop view.png" width=400px />
+  <img src="desktop view.png" width=600px />
 </p>
 
 <h2>Mobile View</h2>
 <p align="center">
-  <img src="phone view.png" width=400px />
+  <img src="phone view.png" width=600px />
 </p>
